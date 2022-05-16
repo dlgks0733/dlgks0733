@@ -25,6 +25,10 @@
 
 <br>
 
+<a href="https://github.com/dlgks0733"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlgks0733&count_bg=%233DB2C8&title_bg=%23555555&icon=staffbase.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
+
+<br>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlgks0733&theme=buefy&show_icons=true)](https://github.com/dlgks0733/github-readme-stats)
 
 <br>
