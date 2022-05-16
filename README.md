@@ -4,15 +4,15 @@
 
 ### 📫 Skill  
   <!-- 자바 -->
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=">
+  <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&logoColor=white">
   <!-- 자바스크립트 -->
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&logoColor=white">
   <!-- 타입스크립트 -->
-  <img src="https://img.shields.io/badge/-TypeScript-#3178C6?logo=typescript&logoColor=">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6.svg?logo=typescript&logoColor=white">
   <!-- 스프링 -->
-  <img src="https://img.shields.io/badge/-Spring-#6DB33F?logo=spring&logoColor=">
+  <img src="https://img.shields.io/badge/-Spring-6DB33F.svg?logo=spring&logoColor=white">
   <!-- Vue.js -->
-  <img src="https://img.shields.io/badge/-Vue.js-#4FC08D?logo=vue.js&logoColor=">
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D.svg?logo=vue.js&logoColor=white">
   
 <br>
 
