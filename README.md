@@ -26,6 +26,9 @@
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlgks0733&theme=buefy&show_icons=true)](https://github.com/dlgks0733/github-readme-stats)
+
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlgks0733&langs_count=8)](https://github.com/dlgks0733/github-readme-stats)
 <br>
 <br>
